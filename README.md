@@ -1,5 +1,6 @@
 # crypto-manager
-This is a boilerplate that contains a typically layout with a header and a sidebar with navigation for reuse code.
+This is a boilerplate that contains a typically layout with a header and a sidebar with navigation for reuse code.<br>
+![image info](./src/assets/layout.png)
 
 
 ## Project setup
